@@ -11,7 +11,7 @@ app_license = "MIT"
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/erpnext_arabic_layout/css/erpnext_arabic_layout.css"
+app_include_css = "/assets/erpnext_arabic_layout/css/erpnext_arabic_layout.css"
 # app_include_js = "/assets/erpnext_arabic_layout/js/erpnext_arabic_layout.js"
 
 # include js, css files in header of web template
