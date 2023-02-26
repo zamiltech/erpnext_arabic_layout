@@ -2,7 +2,7 @@
 
 Arabic Layout
 
-Screenshot-01.png
+![image](https://github.com/zamiltech/erpnext_arabic_layout/blob/master/Screenshot-01.png)
 
 Installation Steps:
 
